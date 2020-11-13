@@ -17,5 +17,4 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 git clone https://github.com/kenzok8/openwrt-pa...  package/openwrt-packages
 git clone https://github.com/kenzok8/small.git  package/openwrt-small
-git clone https://github.com/jefferymvp/luci-app-koolproxyR
-src-git helloworld https://github.com/fw876/helloworld
+
